@@ -558,6 +558,10 @@ video {
   height: 145.238px;
 }
 
+.h-px {
+  height: 1px;
+}
+
 .w-full {
   width: 100%;
 }
@@ -576,6 +580,10 @@ video {
 
 .w-\[136\.129px\] {
   width: 136.129px;
+}
+
+.w-\[172px\] {
+  width: 172px;
 }
 
 .flex-col {
@@ -626,6 +634,10 @@ video {
   gap: 100px;
 }
 
+.gap-1 {
+  gap: 0.25rem;
+}
+
 .self-stretch {
   align-self: stretch;
 }
@@ -642,6 +654,11 @@ video {
 .bg-neutral-50 {
   --tw-bg-opacity: 1;
   background-color: rgb(249 249 249 / var(--tw-bg-opacity));
+}
+
+.bg-neutral-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(64 64 64 / var(--tw-bg-opacity));
 }
 
 .px-6 {
