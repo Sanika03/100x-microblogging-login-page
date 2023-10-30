@@ -533,3 +533,7 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.bg-stroke-50 {
+  background-color: rgba(29, 155, 240, 0.24);
+}
