@@ -16,6 +16,15 @@ module.exports = {
     lineHeight: {
       "normal": "normal"
     },
+    borderRadius: {
+      "border-65": "65px"
+    },
+    boxShadow: {
+      "box-shadow": "0px 8px 16px 0px rgba(0, 0, 0, 0.25)"
+    },
+    backdropBlur: {
+      "23": "blur(23.668209075927734px)"
+    }
   },
   plugins: [],
   }
