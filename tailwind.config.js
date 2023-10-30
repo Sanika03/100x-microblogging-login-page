@@ -8,7 +8,7 @@ module.exports = {
         "neutral-50": "#F9F9F9",
         "neutral-700": "#404040",
         "neutral-1000": "#000000",
-        "stroke-50": "rgba(29, 155, 240, 0.24)"
+        "button-stroke": "#546A7A",
     },
     fontFamily: {
       "inter": ['Inter', 'sans-serif']
