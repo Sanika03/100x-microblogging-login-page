@@ -538,8 +538,16 @@ video {
   display: inline;
 }
 
+.flex {
+  display: flex;
+}
+
 .inline-flex {
   display: inline-flex;
+}
+
+.items-end {
+  align-items: flex-end;
 }
 
 .items-center {
@@ -548,6 +556,22 @@ video {
 
 .justify-center {
   justify-content: center;
+}
+
+.gap-\[100px\] {
+  gap: 100px;
+}
+
+.gap-0 {
+  gap: 0px;
+}
+
+.gap-0\.5 {
+  gap: 0.125rem;
+}
+
+.gap-\[2px\] {
+  gap: 2px;
 }
 
 .bg-stroke-50 {
